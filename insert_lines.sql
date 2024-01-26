@@ -8,7 +8,7 @@ INSERT INTO 'lines' (name, color) VALUES
 ('Line 7', 'Naramja'),
 ('Line 8', 'Verde'),
 ('Line 9', 'Cáfe'),
-('Line 10', 'Morado')
+('Line 10', 'Morado'),
 ('Line 11', 'Verde y gris'),
 ('Line 12', 'Oro');
 
